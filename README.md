@@ -17,3 +17,13 @@ The objective of this repository is to learn the fundamental Git workflow:
 - `src/` contains Python source code.
 - `README.md` documents the project.
 - `.gitignore` specifies files that Git should not track.
+
+## Features
+
+The project currently demonstrates:
+
+- Basic Python functions
+- Modular Python source files
+- Arithmetic mean calculation
+- Range calculation
+- Git-based version control
