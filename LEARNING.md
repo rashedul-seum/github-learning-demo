@@ -16,3 +16,7 @@
 `git commit` records staged changes.
 
 `git push` sends local commits to GitHub.
+
+## Current Goal
+
+Learn a professional Git and GitHub workflow.
