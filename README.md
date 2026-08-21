@@ -27,3 +27,7 @@ The project currently demonstrates:
 - Arithmetic mean calculation
 - Range calculation
 - Git-based version control
+
+## Future Improvements
+
+Additional statistical functions will be added in future versions.
