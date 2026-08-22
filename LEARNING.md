@@ -28,3 +28,4 @@ A Git repository can be cloned to multiple computers and synchronized through Gi
 ## Collaboration Practice
 
 Git allows researchers to collaborate safely on shared code.
+Git enables developers to collaborate efficiently on the same project.
