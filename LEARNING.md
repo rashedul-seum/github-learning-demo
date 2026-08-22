@@ -20,3 +20,7 @@
 ## Current Goal
 
 Learn a professional Git and GitHub workflow.
+
+## Remote Synchronization
+
+A Git repository can be cloned to multiple computers and synchronized through GitHub.
