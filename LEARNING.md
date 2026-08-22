@@ -24,3 +24,7 @@ Learn a professional Git and GitHub workflow.
 ## Remote Synchronization
 
 A Git repository can be cloned to multiple computers and synchronized through GitHub.
+
+## Collaboration Practice
+
+Git helps developers collaborate on the same project.
