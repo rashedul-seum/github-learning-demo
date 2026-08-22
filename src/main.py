@@ -1,4 +1,8 @@
-from statistics_utils import calculate_mean, calculate_range
+from statistics_utils import (
+    calculate_mean,
+    calculate_range,
+    calculate_median
+)
 
 
 def greet(name):
@@ -18,3 +22,4 @@ if __name__ == "__main__":
     print(f"The square of 5 is {square(5)}.")
     print(f"Mean score: {calculate_mean(scores):.2f}")
     print(f"Score range: {calculate_range(scores)}")
+    print(f"Median score: {calculate_median(scores):.2f}")
