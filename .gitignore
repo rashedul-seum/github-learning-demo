@@ -1,5 +1,29 @@
+# macOS
 .DS_Store
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+
+# Virtual environments
 .venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
 .env
+.env.*
+
+# IDE
+.vscode/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.log
