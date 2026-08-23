@@ -1,33 +1,31 @@
 # GitHub Learning Demo
 
-A small Python project created while learning Git, GitHub, and professional version-control practices.
+A small Python project developed while learning Git, GitHub, version control, branching, collaboration, and professional repository organization.
 
-## Objective
+## Overview
 
-The objective of this repository is to learn the fundamental Git workflow:
-
-1. Modify files
-2. Review changes
-3. Stage changes
-4. Commit changes
-5. Push changes to GitHub
-
-## Project Structure
-
-- `src/` contains Python source code.
-- `README.md` documents the project.
-- `.gitignore` specifies files that Git should not track.
+This repository demonstrates a structured Git and GitHub workflow using a simple Python statistics project.
 
 ## Features
 
-The project currently demonstrates:
-
-- Basic Python functions
-- Modular Python source files
 - Arithmetic mean calculation
+- Median calculation
 - Range calculation
+- Modular Python code
 - Git-based version control
+- Feature-branch development
+- Pull Request workflow
+- Merge-conflict practice
 
-## Future Improvements
+## Project Structure
 
-Additional statistical functions will be added in future versions.
+```text
+github-learning-demo/
+├── data/
+├── notebooks/
+├── results/
+├── src/
+├── tests/
+├── .gitignore
+├── README.md
+└── requirements.txt
